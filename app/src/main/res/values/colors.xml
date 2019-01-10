@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- colorPrimary 应用的主要色调，actionBar默认使用该颜色，Toolbar导航栏的底色 -->
+    <color name="colorPrimary">#2aaeff</color>
+    <!-- colorPrimaryDark 应用的主要暗色调，statusBarColor默认使用该颜色 -->
+    <color name="colorPrimaryDark">#ffffffff</color>
+    <!-- colorAccent CheckBox，RadioButton，SwitchCompat等一般控件的选中效果默认采用该颜色 -->
+    <color name="colorAccent">#2aaeff</color>
+
+
+    <color name="tab_checked">#3F51B5</color>
+    <color name="tab_unchecked">#757575</color>
+
+
+    <!-- 基本颜色 -->
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#88000000</color>
+    <color name="base_orange">#fcaa2d</color>
+    <color name="base_red">#ff4543</color>
+    <color name="base_gray">#a5a5a5</color>
+    <color name="base_blue">#2aaeff</color>
+    <color name="base_green">#12c136</color>
+
+    <color name="text_color">#3f3a39</color>
+    <color name="edit_color">#5a5655</color>
+    <color name="bg_color">#f4f4f4</color>
+    <color name="gray_45">#454545</color>
+    <color name="gray_f4">#f4f4f4</color>
+    <color name="gray_4d">#4d4d4d</color>
+    <color name="gray_a5">#a5a5a5</color>
+    <color name="gray_dc">#dcdcdc</color>
+
+    <color name="gray_divider">#e4e2df</color>
+</resources>

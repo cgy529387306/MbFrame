@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="mb_progress_dialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="colorAccent">#2D9AE5</item>
+    </style>
+
+
+    <style name="CustomTab" parent="Widget.Design.TabLayout" >
+        <item name="tabIndicatorColor">@color/base_blue</item>
+        <item name="tabTextColor">@color/base_gray</item>
+        <item name="tabSelectedTextColor">@color/base_blue</item>
+        <item name="tabIndicatorHeight">0dp</item>
+    </style>
+</resources>
